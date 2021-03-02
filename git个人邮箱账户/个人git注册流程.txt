@@ -1,0 +1,5 @@
+1.注册新邮箱
+2.将config放到路径C:\Users\asus\.ssh
+(config中有个人（上）及公司的git（下）)
+3.创建gitHub账户并配置秘钥：https://www.cnblogs.com/jingqiduizhang/p/jingqiduizhang.html
+4.生成密钥文件（生成私钥及公钥两个两个是对应的）的方法及修改密钥名称（因为要有公司的及个人的不能重名）：

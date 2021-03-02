@@ -1,0 +1,11 @@
+Host github.com
+HostName github.com
+User duran5118@163.com
+PreferredAuthentications publickey
+IdentityFile C:\Users\asus\.ssh\id_rsa_base
+
+Host gitlab.tongcuncun.net
+HostName gitlab.tongcuncun.net
+User 1010506985@qq.com
+PreferredAuthentications publickey
+IdentityFile C:\Users\asus\.ssh\id_rsa_work
